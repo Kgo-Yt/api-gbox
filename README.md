@@ -18,7 +18,7 @@ allprojects {
 2. Add dependency to your project(jcenter):
 
 ```gradle
-implementation 'com.github.tiann:FreeReflection:3.1.0'
+implementation 'com.github.Kgo-Yt:FreeReflection:3.1.0'
 ```
 
 3. Add one line to your `Application.attachBaseContext` :
